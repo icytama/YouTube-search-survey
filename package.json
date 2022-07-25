@@ -1,0 +1,22 @@
+{
+  "name": "yss",
+  "version": "0.0.1",
+  "description": "Get Information you need from youtube trending search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaasmakula/yss.git"
+  },
+  "keywords": [
+    "Youtube"
+  ],
+  "author": "evaasmakula",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/evaasmakula/yss/issues"
+  },
+  "homepage": "https://github.com/evaasmakula/yss#readme"
+}
